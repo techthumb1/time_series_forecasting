@@ -1,3 +1,4 @@
-# Labs DS template
+# Time Series Forecasting
 
-[Docs](https://docs.labs.lambdaschool.com/data-science/)
+***
+
